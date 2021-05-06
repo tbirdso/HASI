@@ -44,7 +44,7 @@ setup(
     keywords='ITK InsightToolkit',
     url=r'https://itk.org/',
     install_requires=[
-        r'itk>=5.2.0',
+        r'itk>=5.2.0.post2',
         r'itk-boneenhancement',
         r'itk-ioscanco',
     ]
